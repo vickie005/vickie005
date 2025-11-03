@@ -118,7 +118,12 @@ I love building **creative web applications**, exploring **AI/ML**, and **automa
 </p>
 
 <p align="center">
-  <img src="https://github.com/Vickie005/Vickie005/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vickie005/Vickie005/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vickie005/Vickie005/blob/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://github.com/Vickie005/Vickie005/blob/output/github-snake.svg" />
+  </picture>
 </p>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer)
